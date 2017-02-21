@@ -2,7 +2,7 @@
 //Simple colors only, no mauve and puce
 
 
-carmesí
+rojo
 azul
 verde
 púrpura
